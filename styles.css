@@ -15,7 +15,8 @@ body {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
-  background-color: #F3F3F3;
+  background-color: rgb(2, 2, 48);
+  color: rgb(255, 255, 255);
   height: 3.5em;
   padding: 1em;
 }
@@ -23,11 +24,12 @@ body {
 img.logo {
   max-height: 100%;
   width: 3rem;
+  color: white;
   float: left;
 }
 
 .page-title {
-  color: #6B6B6B;
+  color: rgb(255, 255, 255);
   float: left;
   font-size: 1.1rem;
   line-height: 3rem;
@@ -60,7 +62,7 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: #294860;
+  background-color: #ee3030;
   color: white;
 }
 
